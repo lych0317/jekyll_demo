@@ -1,3 +1,5 @@
-{{ page.title }}
+# {{ page.title }}
 
 {{ content }}
+
+
